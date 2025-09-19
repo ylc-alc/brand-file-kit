@@ -17,7 +17,11 @@ Content marketers using Microsoft 365/SharePoint and multiple LLMs (e.g., GPT-4,
 \#\# Usage Prompt (with delimiter)  
 \`\`\`markdown  
 \---  
-{Your Markdown Brand File here}  
+## Download links
+- **ZIP (one click):** https://github.com/ylc-alc/brand-file-kit/releases/tag/v1.1.0
+- **Template (Blank):** https://raw.githubusercontent.com/ylc-alc/brand-file-kit/v1.1.0/LLM-Ready-Brand-File_Template-Blank.md
+- **Sample (Filled):** https://raw.githubusercontent.com/ylc-alc/brand-file-kit/v1.1.0/LLM-Ready-Brand-File_Sample-Filled.md
+- **README:** https://raw.githubusercontent.com/ylc-alc/brand-file-kit/v1.1.0/README.md
 \---  
 Draft using the fixed H2 order: Hook → Context → Analysis → Takeaways.
 
