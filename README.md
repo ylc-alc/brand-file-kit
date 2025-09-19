@@ -23,10 +23,12 @@ Draft using the fixed H2 order: Hook → Context → Analysis → Takeaways.
 ```
 
 ## Download links
-- **ZIP (one click):** https://github.com/ylc-alc/brand-file-kit/releases/tag/v1.1.0
-- **Template (Blank):** https://raw.githubusercontent.com/ylc-alc/brand-file-kit/v1.1.0/LLM-Ready-Brand-File_Template-Blank.md
-- **Sample (Filled):** https://raw.githubusercontent.com/ylc-alc/brand-file-kit/v1.1.0/LLM-Ready-Brand-File_Sample-Filled.md
-- **README:** https://raw.githubusercontent.com/ylc-alc/brand-file-kit/v1.1.0/README.md
+### Version-pinned (frozen for this release)
+- **Template (Blank):** https://raw.githubusercontent.com/ylc-alc/brand-file-kit/v1.1.1/LLM-Ready-Brand-File_Template-Blank.md
+- **Sample (Filled):** https://raw.githubusercontent.com/ylc-alc/brand-file-kit/v1.1.1/LLM-Ready-Brand-File_Sample-Filled.md
+
+### Always latest README (auto-updates)
+- **README (latest on main):** https://raw.githubusercontent.com/ylc-alc/brand-file-kit/main/README.md
 
 ## SharePoint setup
 - **Home path:** `marcom/shared_info/brand-file.md`
